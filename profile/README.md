@@ -12,6 +12,8 @@ Homepage (zh) and documents: [Gitee Pages](https://royqh1979.gitee.io/redpandacp
 
 arm64 scripts and packages: [redpanda-cpp/woa](https://github.com/redpanda-cpp/woa).
 
+Qt 5.6 with backports: [redpanda-cpp/qtbase-5.6](https://github.com/redpanda-cpp/qtbase-5.6).
+
 ## Linux
 
 AUR mirror and binary packages: [redpanda-cpp/aur](https://github.com/redpanda-cpp/aur).
