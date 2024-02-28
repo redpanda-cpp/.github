@@ -18,6 +18,10 @@ Qt 5.6 with backports: [redpanda-cpp/qtbase-5.6](https://github.com/redpanda-cpp
 
 AUR mirror and binary packages: [redpanda-cpp/aur](https://github.com/redpanda-cpp/aur).
 
+Generic packages (AppImage): [redpanda-cpp/linux-generic](https://github.com/redpanda-cpp/linux-generic).
+
+AppImage build environment: [redpanda-cpp/appimage-builder](https://github.com/redpanda-cpp/appimage-builder).
+
 AppImage runtime riscv64 scripts: [redpanda-cpp/appimage-riscv64](https://github.com/redpanda-cpp/appimage-riscv64).
 
 appimagetool riscv64: [redpanda-cpp/appimagetool-riscv64](https://github.com/redpanda-cpp/appimage-riscv64).
