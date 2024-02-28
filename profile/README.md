@@ -10,7 +10,7 @@ Homepage (zh) and documents: [Gitee Pages](https://royqh1979.gitee.io/redpandacp
 
 ## Windows
 
-arm64 scripts and packages: [redpanda-cpp/woa](https://github.com/redpanda-cpp/woa).
+arm64 packages: [redpanda-cpp/woa](https://github.com/redpanda-cpp/woa).
 
 Qt 5.6 with backports: [redpanda-cpp/qtbase-5.6](https://github.com/redpanda-cpp/qtbase-5.6).
 
