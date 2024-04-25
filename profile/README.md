@@ -12,7 +12,13 @@ Homepage (zh) and documents: [Gitee Pages](https://royqh1979.gitee.io/redpandacp
 
 arm64 packages: [redpanda-cpp/woa](https://github.com/redpanda-cpp/woa).
 
-Qt 5.6 with backports: [redpanda-cpp/qtbase-5.6](https://github.com/redpanda-cpp/qtbase-5.6).
+Qt 5.15 for Windows XP: [redpanda-cpp/qtbase-xp](https://github.com/redpanda-cpp/qtbase-xp).
+
+<del>Qt 5.6 with backports: [redpanda-cpp/qtbase-5.6](https://github.com/redpanda-cpp/qtbase-5.6).</del> (An attempt to make Red Panda C++ available on Windows XP. Archived.)
+
+MinGW 11.4 for Windows XP: [redpanda-cpp/mingw-builds#branch=redpanda-11.4](https://github.com/redpanda-cpp/mingw-builds/tree/redpanda-11.4).
+
+LLVM with libs for Red Panda C++: [redpanda-cpp/toolchain-win32-llvm](https://github.com/redpanda-cpp/toolchain-win32-llvm).
 
 ## Linux
 
@@ -25,3 +31,11 @@ AppImage build environment: [redpanda-cpp/appimage-builder](https://github.com/r
 AppImage runtime riscv64 scripts: [redpanda-cpp/appimage-riscv64](https://github.com/redpanda-cpp/appimage-riscv64).
 
 appimagetool riscv64: [redpanda-cpp/appimagetool-riscv64](https://github.com/redpanda-cpp/appimage-riscv64).
+
+## Resources and Utils
+
+GCC zh-CN language files: [redpanda-cpp/gcc.po](https://github.com/redpanda-cpp/gcc.po)
+
+ASCII control character font generator: [redpanda-cpp/control-font](https://github.com/redpanda-cpp/control-font).
+
+Extremely fast MinGW GCC build scripts for easy experiments: [redpanda-cpp/mingw-lite](https://github.com/redpanda-cpp/mingw-lite).
