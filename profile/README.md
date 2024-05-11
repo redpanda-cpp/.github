@@ -24,7 +24,7 @@ LLVM with libs for Red Panda C++: [redpanda-cpp/toolchain-win32-llvm](https://gi
 
 AUR mirror and binary packages: [redpanda-cpp/aur](https://github.com/redpanda-cpp/aur).
 
-Generic packages (AppImage): [redpanda-cpp/linux-generic](https://github.com/redpanda-cpp/linux-generic).
+Generic packages (AppImage, static Deb): [redpanda-cpp/linux-generic](https://github.com/redpanda-cpp/linux-generic).
 
 AppImage build environment: [redpanda-cpp/appimage-builder](https://github.com/redpanda-cpp/appimage-builder).
 
